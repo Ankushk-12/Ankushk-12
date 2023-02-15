@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)
+[![MasterHead](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)](https://github.com/Ankushk-12)
 
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
